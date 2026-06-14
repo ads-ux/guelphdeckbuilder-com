@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://guelphdeckbuilder.com/sitemap.xml
