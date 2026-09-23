@@ -1,0 +1,13 @@
+
+# 2026-09-23 — canonicalise .html duplicates to clean URLs
+/blog.html   /blog   301!
+/composite-decking-guelph.html   /composite-decking-guelph   301!
+/contact.html   /contact   301!
+/deck-build-time-guelph.html   /deck-build-time-guelph   301!
+/deck-construction-guelph.html   /deck-construction-guelph   301!
+/deck-cost-guelph.html   /deck-cost-guelph   301!
+/deck-permit-guelph.html   /deck-permit-guelph   301!
+/deck-permits-design-guelph.html   /deck-permits-design-guelph   301!
+/deck-railings-guelph.html   /deck-railings-guelph   301!
+/deck-repair-guelph.html   /deck-repair-guelph   301!
+/privacy.html   /privacy   301!
